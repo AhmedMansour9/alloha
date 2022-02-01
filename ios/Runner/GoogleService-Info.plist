@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1057203094625-8g7r13h816fv4pnqjgme1gmg6lhh6elj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1057203094625-8g7r13h816fv4pnqjgme1gmg6lhh6elj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1057203094625-hmf4hm63lt1acphr01395f4d72kq7oeu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSBjSHEwksUnxwpI4jhIHq7DiGE-xdRF4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1057203094625</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.alloha</string>
+	<key>PROJECT_ID</key>
+	<string>alloha-50816</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alloha-50816.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1057203094625:ios:210271b7c53ff43d281620</string>
+</dict>
+</plist>

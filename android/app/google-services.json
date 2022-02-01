@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1057203094625",
+    "project_id": "alloha-50816",
+    "storage_bucket": "alloha-50816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057203094625:android:2fccfab35f58485b281620",
+        "android_client_info": {
+          "package_name": "com.example.alloha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057203094625-hmf4hm63lt1acphr01395f4d72kq7oeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alloha",
+            "certificate_hash": "53016218a6d69883bda9367c043d91459d15aff8"
+          }
+        },
+        {
+          "client_id": "1057203094625-7n75p9f3pvn5unfao1hhk5pprebjccdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-l979KthRDBD_PZJfjc8q_LAmPXQGB1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057203094625-7n75p9f3pvn5unfao1hhk5pprebjccdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057203094625-8g7r13h816fv4pnqjgme1gmg6lhh6elj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alloha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
